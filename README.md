@@ -1,7 +1,8 @@
+
+Programming-Paradigms-DD1361.F1
+===============================
 Uppvärmning
 Problem ID: kth:progp:warmupTime limit: 1 secondMemory limit: 1024 MB
-===============================
-
 My Submissions
 I denna labb ska du konstruera några enkla funktioner i Haskell. Alla funktioner du definierar i denna labb ska ligga i en modul som heter F1. Följande är ett kodskelett som man kan utgå ifrån, det innehåller triviala kodstubbar (som såklart inte gör rätt) för samtliga deluppgifter i labben.
 
